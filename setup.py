@@ -22,7 +22,7 @@ if sys.version_info[0] != 3 or sys.version_info[1] < 4:
 
 setup(name='SQLAlchemy-JSONAPI',
       version='3.0.1',
-      url='http://github.com/coltonprovias/sqlalchemy-jsonapi',
+      url='http://github.com/bladams/sqlalchemy-jsonapi',
       license='MIT',
       author='Colton J. Provias',
       author_email='cj@coltonprovias.com',
